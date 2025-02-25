@@ -1,0 +1,13 @@
+# BaseAI directories
+**/.baseai/
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Other common files to ignore
+node_modules/
+__pycache__/
+*.log
+.DS_Store
