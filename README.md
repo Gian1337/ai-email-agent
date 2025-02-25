@@ -16,8 +16,8 @@ Before setting up this project, ensure you have:
 ## 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd ai-email
+git clone https://github.com/Gian1337/ai-email-agent.git
+cd ai-email-agent
 ```
 
 ## 2. Install dependencies
